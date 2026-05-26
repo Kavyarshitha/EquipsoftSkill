@@ -1,0 +1,10 @@
+{
+  "skills": [
+    {
+      "id": "CaseAnalyzer",
+      "name": "CaseAnalyzer",
+      "version": "1.0",
+      "description": "Case Analyzing using Case details & Repositories"
+    }
+  ]
+}
